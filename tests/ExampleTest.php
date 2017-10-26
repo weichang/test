@@ -13,6 +13,7 @@ class ExampleTest extends TestCase
      */
     public function testBasicExample()
     {
+        
         $this->visit('/')
              ->click('test')
              ->see('hi,test');
