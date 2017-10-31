@@ -6,7 +6,7 @@
 - 1.Intro to Application Testing (done)
 - 2.Beginning Unit Testing (done)
 - 3.More Unit Testing Review (done)
-- 4.Testing Eloquent
+- 4.Testing Eloquent (done)
 - 5.A Testing Database Connection
 - 6.Testing Collaborators
 - 7.Homework Solutions
