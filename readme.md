@@ -8,7 +8,7 @@
 - 3.More Unit Testing Review (done)
 - 4.Testing Eloquent (done)
 - 5.A Testing Database Connection (done)
-- 6.Testing Collaborators
+- 6.Testing Collaborators (done)
 - 7.Homework Solutions
 - 8.Regression Testing
 - 9."Liking" a Model With TDD
