@@ -7,7 +7,7 @@
 - 2.Beginning Unit Testing (done)
 - 3.More Unit Testing Review (done)
 - 4.Testing Eloquent (done)
-- 5.A Testing Database Connection
+- 5.A Testing Database Connection (done)
 - 6.Testing Collaborators
 - 7.Homework Solutions
 - 8.Regression Testing
