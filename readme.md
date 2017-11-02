@@ -9,7 +9,7 @@
 - 4.Testing Eloquent (done)
 - 5.A Testing Database Connection (done)
 - 6.Testing Collaborators (done)
-- 7.Homework Solutions
+- 7.Homework Solutions (done)
 - 8.Regression Testing
 - 9."Liking" a Model With TDD
 - 10.Test Method Refactoring
