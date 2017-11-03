@@ -30,10 +30,20 @@ $factory->define(App\Article::class, function (Faker\Generator $faker) {
     ];
 });
 
+
 $factory->define(App\Team::class, function (Faker\Generator $faker) {
 
     return [
         'name' => $faker->name,
         'size' => 5,
+    ];
+});
+
+$factory->define(App\Post::class, function (Faker\Generator $faker) {
+
+    return [
+        'user_id' => factory(App\User::class)->create()->id,
+        'title' => $faker->sentence,
+        'body'  => $faker->paragraph,
     ];
 });
