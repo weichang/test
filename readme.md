@@ -27,7 +27,14 @@
     2. 瞭解 Composer.json 載入方法
     https://getcomposer.ycnets.com/doc/04-schema.md#files
     
-- [ ] 11.Design a Fluent API with TDD
+- [X] 11.Design a Fluent API with TDD
+
+    1. __toString()
+    https://ithelp.ithome.com.tw/articles/10135522
+    2. 瞭解正歸表達式
+    http://www.ksana.tw/productivity/RegularExpressionTutorialVer350.pdf
+    
+    
 - [ ] 12.Testing Email With Custom Assertions
 - [ ] 13.PHPUnit Prophecies
 - [ ] 14.Bug Fixing Workflow
